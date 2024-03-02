@@ -1,2 +1,4 @@
 signup
 login
+homepage
+profile
